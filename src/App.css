@@ -1,0 +1,161 @@
+.App {
+  text-align: center;
+}
+body{
+
+  margin: 0px;
+  padding: 0px;
+}
+@media screen  and (max-width:400px) {
+  .home{
+    background-image: url("home.avif");
+    width: 400px;
+    height:700px;
+    
+  }
+  .head {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: chartreuse;
+    position: relative;
+    top: 50px;
+  }
+.head1{
+  color: rgb(251, 6, 6);
+}
+.head2{
+  color: rgb(178, 7, 178);
+}
+.text{
+  margin-left: 10px;
+  width: 250px;
+  height: 150px;
+  opacity: 65%;
+  float: left;
+  text-align: center;
+  background-color: rgb(214, 243, 186);
+  border-radius: 10px;
+}
+.pp{
+  color: rgb(180, 13, 7);
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.text1{
+  margin: 10px;
+  background-image: url("panda.png");
+  float:right;
+  width: 250px;
+  height: 200px;
+  border-radius: 10px;
+}
+.p{
+  color: rgb(215, 6, 118);
+  padding-top: 90px;
+  padding-right: 25px;
+}
+.btn{
+  border-radius: 8px;
+  background-color: rgb(249, 155, 169);
+  font-size: 20px;
+  position: relative;
+  top: 410px;
+  right: 130px;
+  height: 50px;
+}
+.btn1{
+  background-color: darkslategrey;
+  color: aliceblue;
+  float: left;
+  margin: 10px;
+}
+.btn2{
+  background-color: rgb(222, 92, 222);
+  color: white;
+  float: right;
+  margin: 10px;
+}
+.ba{
+  background-color: rgb(241, 234, 234);
+  height:40px;
+  border-bottom: 2px solid rgb(102, 100, 100);
+}
+.qu{
+  background-color: rgb(241, 196, 211);
+  height: 700px;
+}
+.t1{
+  width: 250px;
+  height: 120px;
+  background-color: rgb(202, 255, 148);
+  border-radius: 10px;
+  box-shadow: aliceblue;
+  margin: 10px;
+  float: left;
+}
+.t3{
+  width: 250px;
+  height: 120px;
+  background-color: rgb(255, 148, 205);
+  border-radius: 10px;
+  box-shadow: aliceblue;
+  margin: 10px;
+  float: left;
+}
+.t2{
+  width: 260px;
+  height: 120px;
+  color: white;
+  font-style: italic;
+  background-color: rgb(143, 64, 48);
+  border-radius: 10px;
+  box-shadow: aliceblue;
+  margin: 10px;
+  float: right;
+}
+
+.t4{
+  width: 250px;
+  height: 120px;
+  background-color: rgb(148, 212, 255);
+  border-radius: 10px;
+  box-shadow: aliceblue;
+  margin: 10px;
+  float: right;
+  font-style: italic;
+}
+.t5{
+  height: 30px;
+  background-color: chocolate;
+  float: left;
+  border-radius: 10px;
+  margin-left: 100px;
+  text-align: center;
+  margin-top: 20px;
+}
+.btn3{
+  background-color: darkslategrey;
+  color: aliceblue;
+  float: left;
+  margin: 10px;
+}
+.btn4{
+  background-color: rgb(222, 92, 222);
+  color: white;
+  float: right;
+  margin: 10px;
+}
+.wish{
+  background-image: url("wish.jpg");
+  width: 400px;
+  height: 600px;
+  font-size: 50px;
+  color: rgb(234, 10, 10);
+  text-align:center;
+}
+h3{
+color: rgb(10, 145, 190);
+}
+.im{
+  margin-top: 100px;
+}
+}
